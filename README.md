@@ -1,3 +1,4 @@
+The product of a little code-along tutorial with Brad Traversy ( [on Udemy](https://www.udemy.com/user/brad-traversy/) ).
 Hosted here: https://admls.github.io/contactmanager/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
